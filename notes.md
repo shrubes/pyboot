@@ -27,4 +27,21 @@ all, at, once = 5, 10, 15 # all =5, at =10, and once = 15
 
 ![different data types with python](./img/data-types.JPG)
 
+- Booleans will start with a capital, e.g. True and False
+    - i_won = False
+- Strings (string = "8" or some_string = "bro")
+- Very easy to reassign variables to different types
+```
+variable = True # a booleans
+print(variable)
+True
+variable = "bro" # now it's a string!
+print(variable)
+bro
+```
+
+- In other languages you have to __declare__ what type of variable you are using, not the case in Python
+- __None__ is Python's version of null
+
+
 ## Second section
