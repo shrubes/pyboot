@@ -1,1 +1,1 @@
-print ("Scott Hrubes")
+print("Scott Hrubes")
