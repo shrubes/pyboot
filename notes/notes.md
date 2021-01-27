@@ -69,3 +69,7 @@ Learning how to get user input in Python
 Truthiness and falsiness, any string is inherintly truthy, if a string is empty though, it is falsy. 
 
 - Can combine IF statements by using and, or, not.  
+
+- is vs. "=="
+  - == checks values 'is' checks to see if they are referring to the exact same thing (same place in memory)
+
